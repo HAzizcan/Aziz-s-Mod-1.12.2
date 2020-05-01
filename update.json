@@ -2,10 +2,10 @@
   //URL to display in ModList GUI when an update is avalible
   "homepage": "https://github.com/HAzizcan/Aziz-s-Mod-1.12.2/tree/master/Aziz's%20Mod",
   "promos": {
-    "{1.12.2}-latest"     : " ",
-    "{1.12.2}-recomended" : " "
+    "1.12.2-latest"     : " ",
+    "1.12.2-recomended" : " "
   },
-  "{MinecraftVersion}" : {
+  "1.12.2" : {
     // The changelog will be a ordered list of all entries in this this whos key is >= CURRENT_VERSION && <= TARGET version
     "1.2" : "Changelog seince last build",
     "1.3" : "Changelog seince last build"
